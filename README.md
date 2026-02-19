@@ -19,5 +19,3 @@ Checkout [my website](https://thedarthur.com/) for updates & more info.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=besnardjb&langs_count=10&layout=compact&theme=dracula)
