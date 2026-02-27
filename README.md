@@ -15,4 +15,4 @@ Checkout [my website](https://thedarthur.com/) for updates & more info.
 
 ## Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=c, cpp,python,matlab,docker,git,mpi,openmp,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,docker,linux&theme=light)](https://skillicons.dev)
