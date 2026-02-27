@@ -13,6 +13,6 @@ Checkout [my website](https://thedarthur.com/) for updates & more info.
 * Reverse Engineering
 * Profiling & Debugging
 
-## Languages 
+## Languages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,matlab,docker,linux&theme=light)](https://skillicons.dev)
