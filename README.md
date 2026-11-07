@@ -6,11 +6,13 @@ Studying computer scienc, specializing in High Performance Computing at ISTY, Pa
 
 **Available May 2027** for HPC Internship.
 
-![High Performance Computing](https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c&logoColor=white)
-![Computer Architecture](https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Distributed Computing](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white)
-![Parallel Computing](https://img.shields.io/badge/Fortran-333333?style=for-the-badge&logo=fortran&logoColor=white)
-![GPU Computing](https://img.shields.io/badge/CUDA-333333?style=for-the-badge&logo=nvidia&logoColor=white)
+### 🎯 Core Domains & Stack
+
+![High Performance Computing](https://img.shields.io/badge/High_Performance_Computing-00599C?style=for-the-badge)
+![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-00599C?style=for-the-badge)
+![Distributed Computing](https://img.shields.io/badge/Distributed_Computing-00599C?style=for-the-badge) 
+![Parallel Computing](https://img.shields.io/badge/Parallel_Computing-00599C?style=for-the-badge) 
+![CUDA](https://img.shields.io/badge/CUDA-333333?style=for-the-badge&logo=nvidia&logoColor=white)
 
 [LinkedIn](https://www.linkedin.com/in/thed-arthur-toko-dikongue/) | [Website](https://thed-arthur-toko-dikongue.netlify.app/)
 
