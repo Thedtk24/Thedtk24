@@ -23,10 +23,10 @@ Research HPC Engineer - Internship at @ISAE-ENSMA, Université de Poitiers.
 
 *Hardware Characterization & Performance Optimization for the **ASPHODELE** DNS Solver*
 
-**Build System Modernization:** Migrated the legacy build system to **CMake** with parallel compilation, reducing build times by **4.6x** across 256 source files.
-**Toolchain Migration & Stack Recompilation:** Transitioned to **Intel oneAPI (`ifx`)** and rebuilt the scientific stack from source (**HDF5**, **HYPRE**, **SUNDIALS**) to ensure ABI compatibility and prepare the code for national supercomputers.
-**Hardware Profiling & Roofline Modeling:** Conducted low-level performance analysis using `perf stat`, **MAQAO**, and `gprof`. Identified an arithmetic intensity of $0.557\text{ Flop/Byte}$ and an effective vectorization rate of $84.8\%$ in AVX-256, diagnosing the code as memory-bound.
-**Solver Benchmarking & HPC Scaling:** Compared Poisson solver strategies (**FFT** vs. **HYPRE PFMG** vs. **FISHPACK**), achieving a **2.9x speedup** with FFT on periodic domains[cite: 5], and executed strong/weak scaling runs on the *Curta* supercomputer via **SLURM**.
+- Migrated the legacy build system to **CMake** with parallel compilation, reducing build times by **4.6x** across 256 source files.
+- Transitioned to **Intel oneAPI (`ifx`)** and rebuilt the scientific stack from source (**HDF5**, **HYPRE**, **SUNDIALS**) to ensure ABI compatibility and prepare the code for national supercomputers.
+- Conducted low-level performance analysis using `perf stat`, **MAQAO**, and `gprof`. Identified an arithmetic intensity of $0.557\text{ Flop/Byte}$ and an effective vectorization rate of $84.8\%$ in AVX-256, diagnosing the code as memory-bound.
+- Compared Poisson solver strategies (**FFT** vs. **HYPRE PFMG** vs. **FISHPACK**), achieving a **2.9x speedup** with FFT on periodic domains, and executed strong/weak scaling runs on the *Curta* supercomputer via **SLURM**.
 
 ## EDF R&D, work-study (2023-2026)
 
