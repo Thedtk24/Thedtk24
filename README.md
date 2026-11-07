@@ -37,5 +37,5 @@ A **2-months** data & performance engineering internship at ACT-ON GROUP (ACT-ON
 
 ## Stack
 
-**Programming :** C/C++, Python, GPU (CUDA), Vectorisation SIMD\
-**Tools :** MPI, OpenMP, CMake, Git, Docker, SLURM, MAQAO, Linux
+**Programming :** `C/C++` `Python` `GPU (CUDA)` `Vectorisation SIMD`\
+**Tools :** `MPI` `OpenMP` `CMake` `Git` `Docker` `SLURM` `MAQAO` `Linux`
