@@ -6,8 +6,8 @@ Studying computer scienc, specializing in High Performance Computing at ISTY, Pa
 
 **Available May 2027** for HPC Internship.
 
-`High Performance Computing`, `Computer Architecture`\
-`Distributed Computing`, `Parallel Computing`, `CUDA`
+`High Performance Computing` `Computer Architecture`\
+`Distributed Computing` `Parallel Computing` `CUDA`
 
 [LinkedIn](https://www.linkedin.com/in/thed-arthur-toko-dikongue/) | [Website](https://thed-arthur-toko-dikongue.netlify.app/)
 
