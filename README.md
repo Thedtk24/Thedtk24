@@ -9,7 +9,7 @@ Studying computer scienc, specializing in High Performance Computing at ISTY, Pa
 ### 🎯 Core Domains & Stack
 
 ![High Performance Computing](https://img.shields.io/badge/High_Performance_Computing-00599C?style=for-the-badge)
-![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-00599C?style=for-the-badge)
+![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-00599C?style=for-the-badgeColor=white)
 ![Distributed Computing](https://img.shields.io/badge/Distributed_Computing-00599C?style=for-the-badge) 
 ![Parallel Computing](https://img.shields.io/badge/Parallel_Computing-00599C?style=for-the-badge) 
 ![CUDA](https://img.shields.io/badge/CUDA-333333?style=for-the-badge&logo=nvidia&logoColor=white)
