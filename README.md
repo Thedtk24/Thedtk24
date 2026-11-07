@@ -2,7 +2,7 @@
 
 **Computer Science Engineering Student**
 
-Studying computer scienc, specializing in High Performance Computing at ISTY, Paris-Saclay University. 
+Studying computer science, specializing in High Performance Computing at ISTY, Paris-Saclay University. 
 
 **Available May 2027** for HPC Internship.
 
