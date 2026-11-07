@@ -17,18 +17,16 @@ Studying computer scienc, specializing in High Performance Computing at ISTY, Pa
 
 ---
 
-## Oak Ridge National Laboratory, summer 2025
+## CNRS - Institut Pprime, summer 2026
 
-Research Intern, Graduate Research at ORNL (GRO), summer 2025. I built GPU energy-measurement tooling for **Kokkos**, the C++ performance-portability library behind many US Department of Energy codes: a sampling daemon and connectors that read power through NVML or Variorum every 20 ms, plus an AMD path through ROCm SMI, not public yet, which is the version that ran on Frontier. They attach at run time through Kokkos Tools, so an application is measured without a rebuild.
+Research HPC Engineer - Internship at @ISAE-ENSMA, Université de Poitiers. 
 
-- **Ran on Frontier**, the first exascale supercomputer (the ROCm SMI version; those runs were not kept), and on production SLURM clusters.
-- **Found a cost a timer understates.** On the same input and result, ArborX's dense DBSCAN takes 19% less time than the default one but 25% less energy, because it also draws 9% less power (medians of 64 runs on an H100 NVL, [re-analysed in 2026](https://ethan-puyaubreau.github.io/blog/kokkos-gpu-energy); [traces and script](https://github.com/ethan-puyaubreau/smc2025-gpu-energy-poster#data-and-reproduction) are public).
-- **Went through public review.** 11 PRs, [10 to kokkos-tools](https://github.com/kokkos/kokkos-tools/pulls?q=is%3Apr+author%3Aethan-puyaubreau) and [1 to LAMMPS](https://github.com/lammps/lammps/pull/4624): 4 merged: the sampling daemon I started ([kokkos-tools #300](https://github.com/kokkos/kokkos-tools/pull/300), reworked through review by my ORNL mentor after my stay), two build fixes and a fix for the nightly ROCm builds ([#349](https://github.com/kokkos/kokkos-tools/pull/349)). The core ([#299](https://github.com/kokkos/kokkos-tools/pull/299)), the NVML connector ([#301](https://github.com/kokkos/kokkos-tools/pull/301), changes requested) and the Variorum connector with its unit tests ([#302](https://github.com/kokkos/kokkos-tools/pull/302), draft) are still open, as is a follow-up that fixes, builds and tests the daemon ([#350](https://github.com/kokkos/kokkos-tools/pull/350)).
-- **Presented.** Poster at the 2025 Smoky Mountains Conference and at an ORNL internal session ([*Understanding GPU energy dynamics in HPC applications*](https://github.com/ethan-puyaubreau/smc2025-gpu-energy-poster)), and invited to present at SC25 (declined, apprenticeship schedule). Cited in ORNL's [S4PST 2024-2025 report](https://www.osti.gov/biblio/3016977).
+*Hardware Characterization & Performance Optimization for the **ASPHODELE** DNS Solver*
 
-The analysis side is open source and archived on Zenodo ([DOI 10.5281/zenodo.22943410](https://doi.org/10.5281/zenodo.22943410)): [energy-dashboard-for-kokkos](https://github.com/ethan-puyaubreau/energy-dashboard-for-kokkos), rewritten in September 2026 as a single Rust binary that attributes measured energy to Kokkos regions and kernels, with a console table, a Perfetto trace and a standalone HTML report.
-
-In October 2026 I repeated the DBSCAN study on an AMD Instinct MI210 with [mi210-energy-counter](https://github.com/ethan-puyaubreau/mi210-energy-counter): a characterization of AMD's cumulative energy counter (15.3 µJ resolution, refreshed every millisecond) and an experimental Kokkos Tools connector that samples it, separate from the version that ran on Frontier. Same input, 64 runs of each: the dense implementation takes 38% less time and 42% less energy.
+**Build System Modernization:** Migrated the legacy build system to **CMake** with parallel compilation, reducing build times by **4.6x** across 256 source files.
+**Toolchain Migration & Stack Recompilation:** Transitioned to **Intel oneAPI (`ifx`)** and rebuilt the scientific stack from source (**HDF5**, **HYPRE**, **SUNDIALS**) to ensure ABI compatibility and prepare the code for national supercomputers.
+**Hardware Profiling & Roofline Modeling:** Conducted low-level performance analysis using `perf stat`, **MAQAO**, and `gprof`. Identified an arithmetic intensity of $0.557\text{ Flop/Byte}$ and an effective vectorization rate of $84.8\%$ in AVX-256, diagnosing the code as memory-bound.
+**Solver Benchmarking & HPC Scaling:** Compared Poisson solver strategies (**FFT** vs. **HYPRE PFMG** vs. **FISHPACK**), achieving a **2.9x speedup** with FFT on periodic domains[cite: 5], and executed strong/weak scaling runs on the *Curta* supercomputer via **SLURM**.
 
 ## EDF R&D, work-study (2023-2026)
 
