@@ -18,7 +18,7 @@ Studying computer scienc, specializing in High Performance Computing at ISTY, Pa
 
 ## CNRS - Institut Pprime, 2026
 
-A 4-months research HPC engineer internship at Institut Pprime - @ISAE-ENSMA, Université de Poitiers. 
+A **4-months** research HPC engineer internship at Institut Pprime - @ISAE-ENSMA, Université de Poitiers. 
 
 *Hardware Characterization & Performance Optimization for the **ASPHODELE** DNS Solver*
 
@@ -29,7 +29,7 @@ A 4-months research HPC engineer internship at Institut Pprime - @ISAE-ENSMA, Un
 
 ## ACT-ON GROUP, 2025
 
-A 2-months data & performance engineering internship at ACT-ON GROUP (ACT-ON DATA).
+A **2-months** data & performance engineering internship at ACT-ON GROUP (ACT-ON DATA).
 
 *ETL Pipeline Architecture & Performance Optimization for the **CISIRH** (RenoiRH Paie) Project*
 
