@@ -6,11 +6,8 @@ Studying computer scienc, specializing in High Performance Computing at ISTY, Pa
 
 **Available May 2027** for HPC Internship.
 
-`![High Performance Computing](https://img.shields.io/badge/High_Performance_Computing-00599C?style=for-the-badge&logoColor=white)`
-![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-00599C?style=for-the-badge&logoColor=white)\
-![Distributed Computing](https://img.shields.io/badge/Distributed_Computing-00599C?style=for-the-badge&logoColor=white)
-![Parallel Computing](https://img.shields.io/badge/Parallel_Computing-00599C?style=for-the-badge&logoColor=white) 
-![CUDA](https://img.shields.io/badge/CUDA-00599C?style=for-the-badge&logoColor=white) 
+`High Performance Computing`, `Computer Architecture`\
+`Distributed Computing`, `Parallel Computing`, `CUDA`
 
 [LinkedIn](https://www.linkedin.com/in/thed-arthur-toko-dikongue/) | [Website](https://thed-arthur-toko-dikongue.netlify.app/)
 
