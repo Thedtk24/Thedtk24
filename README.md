@@ -1,4 +1,4 @@
-# Thed Arthur TOKO DIKONGUE
+# Thed Arthur
 
 **Computer Science Engineering Student**
 
