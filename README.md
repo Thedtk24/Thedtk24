@@ -28,7 +28,7 @@ A **4-months** research HPC engineer internship at [Institut Pprime](https://ppr
 
 A **2-months** data & performance engineering internship at [ACT-ON GROUP](https://actongroup.com/) ([ACT-ON DATA](https://actongroup.com/data/)).
 
-*ETL Pipeline Architecture & Performance Optimization for the **CISIRH** (RenoiRH Paie) Project*
+*ETL Pipeline Architecture & Performance Optimization for the **CISIRH** ([RenoiRH Paie](https://www.economie.gouv.fr/cisirh/nos-outils/renoirh)) Project*
 
 - Engineered automated Python/SQL data pipelines (`pandas`, `sqlite3`) to process and ingest heterogeneous HR data sources into structured Staging and Data Warehouse schemas.
 - Diagnosed major performance bottlenecks caused by massive data volumes, where naive historical table generation scripts required up to 2 days of execution time.
