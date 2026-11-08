@@ -15,7 +15,7 @@ Studying computer science, specializing in High Performance Computing at ISTY, P
 
 ## CNRS - Institut Pprime, 2026
 
-A **4-months** research HPC engineer internship at [Institut Pprime](https://pprime.fr/) - @[ISAE-ENSMA](https://www.ensma.fr/), [Université de Poitiers](https://www.univ-poitiers.fr/). 
+A **4-months** research HPC engineer internship at [Institut Pprime](https://pprime.fr/) - [@ISAE-ENSMA](https://www.ensma.fr/), [Université de Poitiers](https://www.univ-poitiers.fr/). 
 
 *Hardware Characterization & Performance Optimization for the **ASPHODELE** DNS Solver*
 
