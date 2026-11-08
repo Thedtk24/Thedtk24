@@ -26,7 +26,7 @@ A **4-months** research HPC engineer internship at [Institut Pprime](https://ppr
 
 ## ACT-ON GROUP, 2025
 
-A **2-months** data & performance engineering internship at [ACT-ON GROUP](https://actongroup.com/) ([ACT-ON DATA](https://actongroup.com/data/)).
+A **2-months** data & performance engineering internship at [ACT-ON GROUP](https://actongroup.com/) ([@ACT-ON DATA](https://actongroup.com/data/)).
 
 *ETL Pipeline Architecture & Performance Optimization for the **CISIRH** ([RenoiRH Paie](https://www.economie.gouv.fr/cisirh/nos-outils/renoirh)) Project*
 
